@@ -1,8 +1,0 @@
- KeyPadAndVibrator---1
-TouchPanel---1
-MainCamera---1
-LightTEST---1
-Receiver---1
-LCD---1
-Speaker---2
-
